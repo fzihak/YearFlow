@@ -16,7 +16,7 @@ YearFlow is an elegant web application that visualizes the progression of the ye
 
 ## 🚀 Live Demo
 
-Visit [YearFlow](https://fzihak.github.io/YearFlow) to see the application in action.
+Visit [YearFlow](https://year-flow.vercel.app/) to see the application in action.
 
 ## 📱 Screenshots
 
