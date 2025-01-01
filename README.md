@@ -18,7 +18,7 @@ YearFlow is an elegant web application that visualizes the progression of the ye
 
 Visit [YearFlow](https://fzihak.github.io/YearFlow) to see the application in action.
 
-## Screenshots
+## 📱 Screenshots
 
 ### Digital Clock
 ![Digital Clock ](screenshots/screenshot1.png)
